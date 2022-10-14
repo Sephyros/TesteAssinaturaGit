@@ -1,1 +1,1 @@
-Teste de assinatura ok! lembrar de desativar a assinatura de push!
+Teste de assinatura ok! lembrar de desativar a assinatura de push!O git não aceita "push"s assinados!
