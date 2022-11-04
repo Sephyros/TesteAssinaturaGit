@@ -1,1 +1,1 @@
-Teste de assinatura ok! lembrar de desativar a assinatura de push!Não esquecer de adicionar a chave com comando 'ssh-add' e depois verificar com 'ssh-add -L'Talvez seja necessario ligar o agent com 'eval `ssh-agent -s`'
+Teste de assinatura no Linux Ubuntu 22.10
